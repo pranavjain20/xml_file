@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="styling.css"?>
+<Song_list> 
+  <heading> Cover Band Song List </heading>
+   <Record> 
+       <artist>Charlie Hunter Trio</artist> 
+       <title>Come as you Are</title> 
+       <genre>Jazz</genre> 
+       <year>1995</year> 
+   </Record> 
+   <Record> 
+       <artist>Evanescence</artist> 
+       <title>Heart Shaped Box</title> 
+       <genre>Opera</genre> 
+       <year>2003</year> 
+   </Record> 
+   <Record> 
+       <artist>Patti Smith</artist> 
+       <title>Smells like Teen Spirit</title> 
+       <genre>Folk</genre> 
+       <year>2007</year> 
+   </Record> 
+   <Record> 
+       <artist>Paw</artist> 
+       <title>School</title> 
+       <genre>Rock</genre> 
+       <year>1995</year>
+   </Record> 
+   <Record> 
+       <artist>EMA</artist> 
+       <title>Endless Names</title> 
+       <genre>Rock</genre> 
+       <year>2011</year> 
+   </Record> 
+   <Record> 
+       <artist>Kristin Hersh</artist> 
+       <title>Pennyroyal Tea</title> 
+       <genre>Indie</genre> 
+       <year>1999</year> 
+   </Record> 
+   <Record> 
+       <artist>Sonic Youth</artist> 
+       <title>Moist Vagina</title> 
+       <genre>Rock</genre> 
+       <year>1998</year> 
+   </Record> 
+   <Record> 
+       <artist>Slow Poke</artist> 
+       <title>Been a Son</title> 
+       <genre>Jazz</genre> 
+       <year>2000</year> 
+   </Record> 
+   <Record> 
+       <artist>Polyphonic Spree</artist> 
+       <title>Lithium</title> 
+       <genre>Pop</genre> 
+       <year>2009</year> 
+   </Record> 
+   <Record> 
+       <artist>Little Roy</artist> 
+       <title>Silver</title> 
+       <genre>Rock</genre> 
+       <year>2011</year> 
+   </Record> 
+</Song_list>
